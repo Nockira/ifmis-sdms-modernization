@@ -1,4 +1,4 @@
-# PFM Evidence Index — 40-mark deliverables
+# PFM Evidence Index 
 
 This folder collects the deliverables that demonstrate practical and professional work relevant to Public Financial Management (PFM) business analysis. These documents are prepared by Nockira and use the public repositories as source evidence:
 
